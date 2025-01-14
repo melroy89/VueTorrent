@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.21.1](https://github.com/VueTorrent/VueTorrent/compare/v2.21.0...v2.21.1) (2025-01-14)
+
+
+### Bug Fixes
+
+* **backend:** Sort option isn't synced with table header ([#2128](https://github.com/VueTorrent/VueTorrent/issues/2128)) ([1e00212](https://github.com/VueTorrent/VueTorrent/commit/1e0021213b671337d273ba968607917872f32064))
+* **polyfills:** Add "toSorted" polyfill to support older browsers ([#2137](https://github.com/VueTorrent/VueTorrent/issues/2137)) ([d92197c](https://github.com/VueTorrent/VueTorrent/commit/d92197cbc2e5e5da38a412ce6e57323cd51fc305))
+* **Settings:** Update "delete torrent files afterwards" not working ([#2135](https://github.com/VueTorrent/VueTorrent/issues/2135)) ([3dbfd06](https://github.com/VueTorrent/VueTorrent/commit/3dbfd067f9e2855c0f66ee78f12a794014a1a788))
+
 ## [2.21.0](https://github.com/VueTorrent/VueTorrent/compare/v2.20.1...v2.21.0) (2025-01-05)
 
 ### Features
